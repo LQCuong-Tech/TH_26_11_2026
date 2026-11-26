@@ -1,0 +1,26 @@
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\bin\Debug\net10.0-windows\6_6 BankAtmMdiSystem.exe
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\bin\Debug\net10.0-windows\6_6 BankAtmMdiSystem.deps.json
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\bin\Debug\net10.0-windows\6_6 BankAtmMdiSystem.runtimeconfig.json
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\bin\Debug\net10.0-windows\6_6 BankAtmMdiSystem.dll
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\bin\Debug\net10.0-windows\6_6 BankAtmMdiSystem.pdb
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\6_6 BankAtmMdiSystem.csproj.GenerateResource.cache
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\6_6 BankAtmMdiSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\6_6 BankAtmMdiSystem.AssemblyInfoInputs.cache
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\6_6 BankAtmMdiSystem.AssemblyInfo.cs
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\6_6 BankAtmMdiSystem.csproj.CoreCompileInputs.cache
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\6_6 BankAtmMdiSystem.dll
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\refint\6_6 BankAtmMdiSystem.dll
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\6_6 BankAtmMdiSystem.pdb
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\6_6 BankAtmMdiSystem.genruntimeconfig.cache
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\ref\6_6 BankAtmMdiSystem.dll
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\6_6 Bank.D80EFCF2.Up2Date
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\6_6 BankAtmMdiSystem.csproj.AssemblyReference.cache
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\_6_6_BankAtmMdiSystem.GUI.frmAtmReconciliation.resources
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\_6_6_BankAtmMdiSystem.GUI.frmAtmStations.resources
+D:\LT .Net\6_6 BankAtmMdiSystem\6_6 BankAtmMdiSystem\obj\Debug\net10.0-windows\_6_6_BankAtmMdiSystem.GUI.frmBankAtmMain.resources
