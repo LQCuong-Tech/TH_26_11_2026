@@ -1,0 +1,22 @@
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\bin\Debug\net10.0-windows\6_7 PowerGridScadaSystem.exe
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\bin\Debug\net10.0-windows\6_7 PowerGridScadaSystem.deps.json
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\bin\Debug\net10.0-windows\6_7 PowerGridScadaSystem.runtimeconfig.json
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\bin\Debug\net10.0-windows\6_7 PowerGridScadaSystem.dll
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\bin\Debug\net10.0-windows\6_7 PowerGridScadaSystem.pdb
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\obj\Debug\net10.0-windows\6_7 PowerGridScadaSystem.csproj.AssemblyReference.cache
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\obj\Debug\net10.0-windows\6_7 PowerGridScadaSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\obj\Debug\net10.0-windows\6_7 PowerGridScadaSystem.AssemblyInfoInputs.cache
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\obj\Debug\net10.0-windows\6_7 PowerGridScadaSystem.AssemblyInfo.cs
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\obj\Debug\net10.0-windows\6_7 PowerGridScadaSystem.csproj.CoreCompileInputs.cache
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\obj\Debug\net10.0-windows\6_7 Powe.637B10A5.Up2Date
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\obj\Debug\net10.0-windows\6_7 PowerGridScadaSystem.dll
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\obj\Debug\net10.0-windows\refint\6_7 PowerGridScadaSystem.dll
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\obj\Debug\net10.0-windows\6_7 PowerGridScadaSystem.pdb
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\obj\Debug\net10.0-windows\6_7 PowerGridScadaSystem.genruntimeconfig.cache
+D:\LT .Net\6_7 PowerGridScadaSystem\6_7 PowerGridScadaSystem\obj\Debug\net10.0-windows\ref\6_7 PowerGridScadaSystem.dll
